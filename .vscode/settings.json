@@ -6,6 +6,5 @@
     "package.json": true,
     "package-lock.json": true,
     "yarn.lock": true,
-    "public": true
   }
 }
